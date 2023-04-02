@@ -1,6 +1,6 @@
 # Working-Categorical-Data-In-Python-
 
-####Being able to understand, use, and summarize non-numerical data is very vital when working with categorical data. This repository is consist of 4 categories :
+#### Being able to understand, use, and summarize non-numerical data is very vital when working with categorical data. This repository is consist of 4 categories :
 - Introduction to Categorical Data
 
 	**Learning how pandas handles categorical columns using the data type category.
